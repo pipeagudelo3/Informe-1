@@ -1,7 +1,0 @@
-& "venv\Scripts\Activate.ps1"
-
-python --versión
-
-venv\Scripts\Activate.ps1
-
-pip list
