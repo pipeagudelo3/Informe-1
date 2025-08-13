@@ -3,7 +3,7 @@
 # Ruta óptima a Bucharest usando A* Search
 
 ## Autor
-Felipe Agudelo y Juan Manuel  
+Felipe Agudelo y Juan Manuel Lopez
 Universidad EAFIT  
 Curso: Inteligencia Artificial  
 Semana 2 - Informe 1
